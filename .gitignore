@@ -39,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# app ideas files
+app_ideas.md
+implementation_plan.md
+Plan.md
+walkthrough.md
